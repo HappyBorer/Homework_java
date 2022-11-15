@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 import java.util.logging.Logger;
 
-public class task_1 {
+public class task1 {
 
   public static Scanner in = new Scanner(System.in);
 
